@@ -9,7 +9,7 @@
 		__overlay__ {
 			num-cs = <2>;
 			cs-gpios = <&pio 2 3 0>,
-					   <&pio 0 6 0>;			
+					   <&pio 3 14 0>;			
 			status = "okay";
 			#address-cells = <1>;
 			#size-cells = <0>;
